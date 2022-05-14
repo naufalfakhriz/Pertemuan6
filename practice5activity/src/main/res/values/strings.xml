@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practice5Activity</string>
+    <string name="hint_input_prodi">Input Prodi</string>
+    <string name="btn_prodi">Bawa Data Prodi Ke Activity Lain</string>
+    <string name="btn_call_browser">Panggil ittelkompwt-.ac.id</string>
+    <string name="btn_call_camera">Panggil Kamera</string>
+    <string name="input_phone_number">Masukan Nomor Telepon</string>
+    <string name="btn_call_phone">Telepon</string>
+    <string name="error_input_prodi">Prodi Tidak Boleh Kosong</string>
+</resources>
